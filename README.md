@@ -6,7 +6,7 @@ This project analyzes New York State automobile insurance complaint data sourced
 
 The final deliverables include:
 ✔ Complaint diagnostics
-✔ Premium trend analysis & factors
+✔ Premium trend analysis & factors 
 ✔ Company-wise comparison dashboard (Top 5 insurers)
 ✔ Executive summary + insights
 
